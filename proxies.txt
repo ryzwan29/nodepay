@@ -1,0 +1,2 @@
+http://ip-proxy:port
+http://user:pass@ip-proxy:port
